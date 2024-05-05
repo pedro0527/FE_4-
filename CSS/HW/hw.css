@@ -42,7 +42,7 @@ body {
   height: 100px;
   border: 1px solid white;
   animation-name: ani;
-  animation-duration: 5s;
+  animation-duration: 10s;
   position: relative;
 }
 
