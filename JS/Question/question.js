@@ -110,9 +110,9 @@ console.log("Q5 반복문 연습문제1");
 *****
 (Hint:for문 or while문 사용 + console.log("*")사용)
 */
-const num = 5;
+const num1 = 5;
 
-for(let i = 1; i <= num; i++) {
+for(let i = 1; i <= num1; i++) {
     let stars = " ";
   for(let j = 1; j <= i; j++) {
     stars = stars + "*";
