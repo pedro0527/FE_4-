@@ -6,7 +6,7 @@ const arr2 = [1, [2, 3, [4, 5, 6], 7], [8, 9]];
 // Q1-1. arr에서 3출력 (Hint:인덱싱은 0부터 시작!)
 console.log(arr[2]);
 // Q1-2. arr에서 [1,2,3]출력 (Hint:Array.js에서 slice함수를 사용해볼까요?)
-console.log(arr.slice(0,3))
+console.log(arr.slice(0,3));
 // Q1-3. arr2에서 [8, 9]출력 (Hint:배열 안에 원소가 배열일 뿐!)
 console.log(arr2[2]);
 // Q1-4. arr2에서 [4, 5, 6]출력 (Hint:원소안 원소!)
